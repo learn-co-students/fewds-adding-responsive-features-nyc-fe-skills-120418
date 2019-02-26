@@ -1,0 +1,20 @@
+@media (max-width: 1108px) {
+  
+  .wrapper {
+    width: 90%;
+  }
+  
+  #social {
+    width: auto;
+    position: absolute;
+    top: 82px;
+    right: 4px;
+  }
+}
+  
+@media (max-width: 900px) {
+  
+body {
+  font-size: 85%;
+}
+
